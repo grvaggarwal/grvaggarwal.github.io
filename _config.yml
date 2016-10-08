@@ -6,7 +6,7 @@
 name: Gaurav Aggarwal
 
 # Short bio or description (displayed in the header)
-description: not necessary but sufficient
+description: Research Interests - Financial Risk Modeling and Analytics, Mathematical & Computational Finance, and Applications of Data Science to Finance
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: grvaggarwal.github.io/images/dp1.jpg
@@ -18,12 +18,12 @@ avatar: grvaggarwal.github.io/images/dp1.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: grvaggarwal25@gmail.com
+  facebook: grvaggarwal
   flickr:
-  github: barryclark/jekyll-now
+  github: grvaggarwal
   instagram:
-  linkedin:
+  linkedin: grvaggarwal25
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
