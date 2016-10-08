@@ -5,11 +5,17 @@ permalink: /CV/
 ---
 ### Skills
 **Finance** Fixed Income Markets, Derivatives, Market Risk and Credit Risk Analysis, Predictive Modeling
+
 **Regulations** Basel II and III, CCAR, DFAST, SR 11-7
+
 **Mathematics** Time Series Analysis, Statistics, Probability Theory, Stochastic Calculus, Data Science, ODE’s and PDE’s, Simulations
+
 **Programming** Python, SAS, R, PERL, MATLAB, C, VBA
+
 **Tools** Bloomberg, IntexCalc, SuperDerivatives, Capital IQ
+
 **Documentation** LATEX, MS Word, MS Excel, MS Office, Markdown
+
 **Languages** English, Hindi, Punjabi
 
 ### Work Experience
