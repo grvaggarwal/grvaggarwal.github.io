@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv/
 ---
 ### Skills
 **Finance** Fixed Income Markets, Derivatives, Market Risk and Credit Risk Analysis, Predictive Modeling
