@@ -13,8 +13,9 @@ permalink: /CV/
 **Languages** English, Hindi, Punjabi
 
 ### Work Experience
-**Deloitte & Touche AERS India Pvt. Ltd.**                              _Sep 2014 - Present_
-_CONSULTANT-II Hyderabad, India_
+**Deloitte & Touche AERS India Pvt. Ltd.** _CONSULTANT-II_
+
+*2 years*
 
 * Performed full-scale validation of credit risk models for the Retail portfolio for a leading US Bank. The models were assessed for
 compliance with Basel 3, BCC13-5 and 14-3 guidelines. The data and modeling techniques were assessed for special treatment
