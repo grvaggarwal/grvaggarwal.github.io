@@ -10,7 +10,11 @@ I hold a Masters in Mathematics from [IISER Mohali](www.iisermohali.ac.in).
 
 ### What lies ahead?
 
-While you are here, feel free to read through the subsequent pages. I am interested in the problems of Mathematical Finance and these discussions are my attempts to learn. The page is open to criticism and contribution.
+While you are here, feel free to read through the subsequent pages.
+
+These are my attempts to learn about subjects, self, community and life!
+
+The page is open to criticism and contribution.
 
 ### Contact me
 
