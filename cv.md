@@ -5,6 +5,6 @@ permalink: /cv/
 ---
 Download >> 
 
-[Word]() 
+[Word](Resume_Gaurav Aggarwal_10032018.docx) 
 
-[PDF]()
+[PDF](Resume_Gaurav Aggarwal_10032018.pdf)
